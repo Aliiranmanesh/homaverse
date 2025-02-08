@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'Vazir';
     src: local('Vazir Regular'),
-         url('../fonts/Vazir-FD-WOL.woff2') format('woff2'),
+         url('../fonts/Vazir-FD-WOL.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
 }
@@ -27,4 +27,13 @@ body {
 }
 .f-light {
     font-family: 'Vazir-light';
+}
+
+.logo{
+    display: block;
+    width: max-content;
+    color: #fff;
+    padding: 10px;
+    background: conic-gradient(from 180deg at 50% 120%, #e85907, #eb5638, #f83fa4, #a87cff, #00c477, #b8b500, #daac00, #deab02);
+
 }
