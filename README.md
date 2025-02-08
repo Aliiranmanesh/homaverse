@@ -27,6 +27,6 @@ This template is a professional and modern solution for companies and startups l
 
 This project uses the **Vazir** font, created by **Saber RastiKerdar**.  
 Saber made a great contribution to the open-source community with this font. Although he is no longer with us, his valuable work continues to be widely used and appreciated.
-🔗 [Visit the official Vazir font page](https://rastikerdar.github.io/vazir-font/)
+🔗 [Visit the official Vazir font page](https://rastikerdar.github.io/vazirmatn/)
 
 
