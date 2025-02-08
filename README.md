@@ -23,3 +23,11 @@ This template is a professional and modern solution for companies and startups l
 
 **Server:** Node, Express
 
+## Font Used: Vazir  
+
+This project uses the **Vazir** font, created by **Saber Rasti Kerdar**.  
+Sadegh made a great contribution to the open-source community with this font, and his work continues to be widely used and appreciated.  
+
+🔗 [Visit the official Vazir font page](https://rastikerdar.github.io/vazir-font/)
+
+
