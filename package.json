@@ -4,7 +4,7 @@
   "description": "A responsive website built with Bootstrap, with plans to integrate additional technologies in the future.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "sass": "sass -w sass/style.scss css/style.css"
   },
   "repository": {
     "type": "git",
