@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/Aliiranmanesh/homaverse/issues"
   },
-  "homepage": "https://github.com/Aliiranmanesh/homaverse#readme"
+  "homepage": "https://github.com/Aliiranmanesh/homaverse#readme",
+  "devDependencies": {
+    "sass": "^1.84.0"
+  }
 }
