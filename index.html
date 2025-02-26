@@ -12,7 +12,7 @@
 
 <body>
     <header class="container">
-        <nav class="navbar navbar-expand-lg bg-body-tertiary shadow p-2 position-sticky">
+        <nav class="navbar navbar-expand-lg bg-body-tertiary shadow p-2 position-sticky rounded">
             <div class="container-fluid">
                 <a class="navbar-brand rounded-2" href="https://homaverse.ir/"><img src="img/logo_homaverse.png" alt="" class="logo"></a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
@@ -47,19 +47,27 @@
                             <path
                                 d="M8 1a5 5 0 0 0-5 5v1h1a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V6a6 6 0 1 1 12 0v6a2.5 2.5 0 0 1-2.5 2.5H9.366a1 1 0 0 1-.866.5h-1a1 1 0 1 1 0-2h1a1 1 0 0 1 .866.5H11.5A1.5 1.5 0 0 0 13 12h-1a1 1 0 0 1-1-1V8a1 1 0 0 1 1-1h1V6a5 5 0 0 0-5-5" />
                         </svg>
-                        تماس مستقیم با ما
+                    ارتباط مستقیم
                     </button>
 
                 </div>
             </div>
         </nav>
         <section class="row d-flex justify-content-center align-items-center mt-5">
-            <div class="col-md-6 ">
+            <div class="col-md-6 d-flex flex-column justify-content-between align-items-center">
                 <h1 class="mb-5 text-info">هماورس، جایی که خلاقیت و تکنولوژی به هم می‌رسند.</h1>
-                <p class="mb-4">ما با طراحی سایت‌های مدرن و هوشمند، کسب‌وکار شما را به سطحی بالاتر می‌بریم. از
-                    ایده‌پردازی تا اجرای نهایی، در کنار شما هستیم تا حضوری قدرتمند و متمایز در دنیای دیجیتال داشته
-                    باشید.</p>
-                <button class="btn btn-info text-white"> مشاهده نمونه کارها</button>
+                    <form class="border p-3 shadow col-10 rounded">
+                        <p>سفارش خود را هم‌اکنون ثبت نمایید تا کارشناسان ما با شما تماس بگیرند.</p>
+                        <div class=" d-flex  gap-2 justify-content-between align-items-center">
+                            <div class=" col-5">
+                                <input type="txt" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="نام و نام خانوادگی">
+                            </div>
+                            <div class=" col-5">
+                                <input type="text" class="form-control" id="exampleInputPassword1" placeholder="شماره تماس">
+                            </div>
+                            <button type="submit" class="btn btn-info text-white ">ثبت</button>
+                        </div>
+                      </form>
             </div>
             <div class="col-md-6">
                 <img src="img/header-picture.png" alt="Homaverse" class="img-fluid ">
